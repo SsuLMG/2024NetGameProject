@@ -78,7 +78,7 @@ void WorkerThread(SOCKET client_sock, int id)
         if (retval <= 0) break;
         CS_Packet* cp = reinterpret_cast<CS_Packet*>(buffer);
 
-        cout << "ID: " << cp->id << " TYPE: " << cp->type << endl;
+        cout << "ID: " << cp->id << " TYPE: " << cp->type << " COIN: " << cp->coin << endl;
 
         // 다른 클라이언트에게 데이터 전송
         mylock.lock();
@@ -116,6 +116,7 @@ void WorkerThread(SOCKET client_sock, int id)
                     sp.type = SIDLE;
                     px = cp->x;
                     py = cp->y;
+                    sp.coin = cp->coin;
                     break;
                 }
                 default:

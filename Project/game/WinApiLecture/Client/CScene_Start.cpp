@@ -285,16 +285,18 @@ void CScene_Start::update()
 
 	switch (net.other)
 	{
+	
 	case JO:
 	{
-		CObject* opObj = net.CreatePlayer();
+		//CObject* opObj = net.CreatePlayer();
 		// 새 접속 플레이어 추가
-		AddObject(opObj, GROUP_TYPE::PLAYER);
+		//AddObject(opObj, GROUP_TYPE::PLAYER);
 		// 현재 씬에 플레이어 등록
-		RegisterPlayer(opObj);
+		//RegisterPlayer(opObj);
 		net.other = ID;  // 상태를 초기화하여 새 플레이어 생성 중복 방지
 		break;
 	}
+	
 	case QU:
 		// 플레이어 죽는 코드 추가
 		break;

@@ -1,22 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\github rgst\\2024NetGameProject\\Project\\game\\WinApiLecture\\",
+  "WorkspaceRootPath": "C:\\Users\\seans\\Documents\\GitHub\\2024NetGameProject\\Project\\game\\WinApiLecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F4EF720-81E8-4814-875C-C3932C08E3E7}|Client\\Client.vcxproj|E:\\github rgst\\2024NetGameProject\\Project\\game\\WinApiLecture\\Client\\CScene_Start.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5F4EF720-81E8-4814-875C-C3932C08E3E7}|Client\\Client.vcxproj|C:\\Users\\seans\\Documents\\GitHub\\2024NetGameProject\\Project\\game\\WinApiLecture\\Client\\CScene_Start.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5F4EF720-81E8-4814-875C-C3932C08E3E7}|Client\\Client.vcxproj|solutionrelative:Client\\CScene_Start.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F4EF720-81E8-4814-875C-C3932C08E3E7}|Client\\Client.vcxproj|E:\\github rgst\\2024NetGameProject\\Project\\game\\WinApiLecture\\Client\\Networking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5F4EF720-81E8-4814-875C-C3932C08E3E7}|Client\\Client.vcxproj|C:\\Users\\seans\\Documents\\GitHub\\2024NetGameProject\\Project\\game\\WinApiLecture\\Client\\Networking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5F4EF720-81E8-4814-875C-C3932C08E3E7}|Client\\Client.vcxproj|solutionrelative:Client\\Networking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F4EF720-81E8-4814-875C-C3932C08E3E7}|Client\\Client.vcxproj|E:\\github rgst\\2024NetGameProject\\Project\\game\\WinApiLecture\\Client\\Networking.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5F4EF720-81E8-4814-875C-C3932C08E3E7}|Client\\Client.vcxproj|solutionrelative:Client\\Networking.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F4EF720-81E8-4814-875C-C3932C08E3E7}|Client\\Client.vcxproj|E:\\github rgst\\2024NetGameProject\\Project\\game\\WinApiLecture\\Client\\CScene_Start.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5F4EF720-81E8-4814-875C-C3932C08E3E7}|Client\\Client.vcxproj|solutionrelative:Client\\CScene_Start.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5F4EF720-81E8-4814-875C-C3932C08E3E7}|Client\\Client.vcxproj|C:\\Users\\seans\\Documents\\GitHub\\2024NetGameProject\\Project\\game\\WinApiLecture\\Client\\CCore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F4EF720-81E8-4814-875C-C3932C08E3E7}|Client\\Client.vcxproj|solutionrelative:Client\\CCore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,74 +21,46 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 201,
-          "SelectedChildIndex": 3,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Networking.h",
-              "DocumentMoniker": "E:\\github rgst\\2024NetGameProject\\Project\\game\\WinApiLecture\\Client\\Networking.h",
-              "RelativeDocumentMoniker": "Client\\Networking.h",
-              "ToolTip": "E:\\github rgst\\2024NetGameProject\\Project\\game\\WinApiLecture\\Client\\Networking.h",
-              "RelativeToolTip": "Client\\Networking.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-07T07:50:34.986Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Networking.cpp",
-              "DocumentMoniker": "E:\\github rgst\\2024NetGameProject\\Project\\game\\WinApiLecture\\Client\\Networking.cpp",
-              "RelativeDocumentMoniker": "Client\\Networking.cpp",
-              "ToolTip": "E:\\github rgst\\2024NetGameProject\\Project\\game\\WinApiLecture\\Client\\Networking.cpp",
-              "RelativeToolTip": "Client\\Networking.cpp",
-              "ViewState": "AgIAADoAAAAAAAAAAAAjwJAAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-07T07:50:33.065Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 199,
+          "DockedWidth": 200,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CScene_Start.cpp",
-              "DocumentMoniker": "E:\\github rgst\\2024NetGameProject\\Project\\game\\WinApiLecture\\Client\\CScene_Start.cpp",
+              "DocumentMoniker": "C:\\Users\\seans\\Documents\\GitHub\\2024NetGameProject\\Project\\game\\WinApiLecture\\Client\\CScene_Start.cpp",
               "RelativeDocumentMoniker": "Client\\CScene_Start.cpp",
-              "ToolTip": "E:\\github rgst\\2024NetGameProject\\Project\\game\\WinApiLecture\\Client\\CScene_Start.cpp*",
-              "RelativeToolTip": "Client\\CScene_Start.cpp*",
-              "ViewState": "AgIAAGMBAAAAAAAAAAAAAH0BAAATAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\seans\\Documents\\GitHub\\2024NetGameProject\\Project\\game\\WinApiLecture\\Client\\CScene_Start.cpp",
+              "RelativeToolTip": "Client\\CScene_Start.cpp",
+              "ViewState": "AgIAABACAAAAAAAAAADwvyQCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-04T04:33:53.341Z",
+              "WhenOpened": "2024-12-13T03:27:07.567Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CScene_Start.h",
-              "DocumentMoniker": "E:\\github rgst\\2024NetGameProject\\Project\\game\\WinApiLecture\\Client\\CScene_Start.h",
-              "RelativeDocumentMoniker": "Client\\CScene_Start.h",
-              "ToolTip": "E:\\github rgst\\2024NetGameProject\\Project\\game\\WinApiLecture\\Client\\CScene_Start.h",
-              "RelativeToolTip": "Client\\CScene_Start.h",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-01T12:00:49.745Z"
+              "DocumentIndex": 2,
+              "Title": "CCore.cpp",
+              "DocumentMoniker": "C:\\Users\\seans\\Documents\\GitHub\\2024NetGameProject\\Project\\game\\WinApiLecture\\Client\\CCore.cpp",
+              "RelativeDocumentMoniker": "Client\\CCore.cpp",
+              "ToolTip": "C:\\Users\\seans\\Documents\\GitHub\\2024NetGameProject\\Project\\game\\WinApiLecture\\Client\\CCore.cpp",
+              "RelativeToolTip": "Client\\CCore.cpp",
+              "ViewState": "AgIAAKUAAAAAAAAAAADwv4EAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T03:17:05.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Networking.cpp",
+              "DocumentMoniker": "C:\\Users\\seans\\Documents\\GitHub\\2024NetGameProject\\Project\\game\\WinApiLecture\\Client\\Networking.cpp",
+              "RelativeDocumentMoniker": "Client\\Networking.cpp",
+              "ToolTip": "C:\\Users\\seans\\Documents\\GitHub\\2024NetGameProject\\Project\\game\\WinApiLecture\\Client\\Networking.cpp",
+              "RelativeToolTip": "Client\\Networking.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T03:15:49.043Z",
+              "EditorCaption": ""
             }
           ]
         }
